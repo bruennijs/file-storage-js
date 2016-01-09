@@ -1,0 +1,22 @@
+{
+  "name": "file-storage",
+  "version": "1.0.0",
+  "description": "Web application storing large files in blobs used for distributed systems (REST API)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/bruennijs/file-storage.git"
+  },
+  "keywords": [
+    "file",
+    "storage",
+    "web",
+    "rest",
+    "api"
+  ],
+  "author": "Oliver Brüntje",
+  "license": "ISC"
+}
