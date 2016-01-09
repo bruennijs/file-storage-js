@@ -1,0 +1,1 @@
+Web application for storing large files locally in private cloud (adapters to local file system, webdav implementation). Started for purpouse to give browsers the ability to store large files against REST API
